@@ -1,3 +1,3 @@
 # Website-DAY-1
 
-Made With #React & #Tailwindcss
+Made With React & Tailwindcss
